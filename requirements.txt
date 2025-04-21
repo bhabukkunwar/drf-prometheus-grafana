@@ -2,4 +2,4 @@ django
 djangorestframework
 django_prometheus
 channels[daphne]
-
+channels_redis
